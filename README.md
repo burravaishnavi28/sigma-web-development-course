@@ -1,2 +1,2 @@
 # sigma-web-development-course
-This will actually contain on my
+This will actually contain on my learnings of
